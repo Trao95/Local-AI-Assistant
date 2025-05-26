@@ -11,7 +11,7 @@ import urllib.parse
 from datetime import datetime
 
 # --- Configuration ---
-OLLAMA_MODEL = "llama3.1"
+OLLAMA_MODEL = "llama3.1" #Example model
 OLLAMA_URL = "http://localhost:11434/api/generate"
 DEBUG_MODE = True
 SYSTEM_PROMPT = (
